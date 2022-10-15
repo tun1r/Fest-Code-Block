@@ -1,0 +1,8 @@
+Hashtag Generator
+https://www.codewars.com/kata/52449b062fb80683ec000024/train/python
+If length of word exceeds 140 characters return False
+
+Examples
+" Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
+"    Hello     World   "                  =>  "#HelloWorld"
+""                                        =>  false
